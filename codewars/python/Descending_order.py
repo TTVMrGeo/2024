@@ -1,0 +1,1 @@
+def descending_order(num): return "".join(sorted(str(num), reverse=True))

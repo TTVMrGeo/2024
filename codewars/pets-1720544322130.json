@@ -1,0 +1,104 @@
+[
+  {
+    "color": "black",
+    "type": "clippy",
+    "size": "nano",
+    "name": "Oscar"
+  },
+  {
+    "color": "white",
+    "type": "chicken",
+    "size": "nano",
+    "name": "Bella"
+  },
+  {
+    "color": "red",
+    "type": "crab",
+    "size": "nano",
+    "name": "Scuttle"
+  },
+  {
+    "color": "gray",
+    "type": "cockatiel",
+    "size": "nano",
+    "name": "Girl Nest Door"
+  },
+  {
+    "color": "black",
+    "type": "dog",
+    "size": "nano",
+    "name": "Sophie"
+  },
+  {
+    "color": "green",
+    "type": "deno",
+    "size": "nano",
+    "name": "Deno Jr."
+  },
+  {
+    "color": "red",
+    "type": "fox",
+    "size": "nano",
+    "name": "Comet"
+  },
+  {
+    "color": "brown",
+    "type": "horse",
+    "size": "nano",
+    "name": "James Baxter"
+  },
+  {
+    "color": "purple",
+    "type": "mod",
+    "size": "nano",
+    "name": "Purple Pal"
+  },
+  {
+    "color": "gray",
+    "type": "rat",
+    "size": "nano",
+    "name": ">spawn"
+  },
+  {
+    "color": "gray",
+    "type": "rocky",
+    "size": "nano",
+    "name": "Rockefeller"
+  },
+  {
+    "color": "gray",
+    "type": "rocky",
+    "size": "nano",
+    "name": "Rock Out"
+  },
+  {
+    "color": "yellow",
+    "type": "rubber-duck",
+    "size": "nano",
+    "name": "Quacker Jack"
+  },
+  {
+    "color": "green",
+    "type": "snake",
+    "size": "nano",
+    "name": "Max"
+  },
+  {
+    "color": "gray",
+    "type": "totoro",
+    "size": "nano",
+    "name": "トトロ"
+  },
+  {
+    "color": "green",
+    "type": "turtle",
+    "size": "nano",
+    "name": "Arthur"
+  },
+  {
+    "color": "yellow",
+    "type": "zappy",
+    "size": "nano",
+    "name": "The Flash"
+  }
+]

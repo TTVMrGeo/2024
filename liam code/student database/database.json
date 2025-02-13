@@ -1,0 +1,23 @@
+{
+    "1": {
+        "name": "Sam",
+        "surname": "Smith",
+        "age": 16,
+        "gender": "10",
+        "grade": 10
+    },
+    "2": {
+        "name": "Ha",
+        "surname": "Am",
+        "age": 5,
+        "gender": "m",
+        "grade": 5
+    },
+    "3": {
+        "name": "All",
+        "surname": "app",
+        "age": 5,
+        "gender": "m",
+        "grade": 5
+    }
+}
